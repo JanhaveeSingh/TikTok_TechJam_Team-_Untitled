@@ -101,7 +101,6 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
   <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/uvicorn.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/readme_files/logo.png" width="40"/>
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/75007559?s=200&v=4" width="40"/> <!-- Pinecone -->
