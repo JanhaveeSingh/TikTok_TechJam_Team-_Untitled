@@ -65,6 +65,8 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 * **Workflow 2 (TikTok Scrolling & Liking)**
 
   * Before: 27.2s → After: 22.99s (**15.5% faster**)
+ 
+ ![Demo 2](assets/demo2.gif)
 
 
 ---
