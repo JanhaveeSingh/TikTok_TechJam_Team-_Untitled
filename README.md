@@ -86,39 +86,7 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 ---
 
 ## Libraries Used in the Project
-#### AI / ML
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> 
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
-<img src="https://avatars.githubusercontent.com/u/47238792?s=200&v=4" width="40"/> 
-<img src="https://avatars.githubusercontent.com/u/72576348?s=200&v=4" width="40"/> 
 
-#### Computer Vision
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-
-#### Web Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/> 
-<img src="https://avatars.githubusercontent.com/u/73998423?s=200&v=4" width="40"/> <!-- Gradio logo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uvicorn/uvicorn-original.svg" width="40"/> 
-
-#### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40"/> 
-<img src="https://avatars.githubusercontent.com/u/75007559?s=200&v=4" width="40"/> <!-- Pinecone -->
-<img src="https://avatars.githubusercontent.com/u/123345178?s=200&v=4" width="40"/> <!-- ChromaDB -->
-
-#### Mobile Automation
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/> 
-
-#### NLP
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/> <!-- LangChain -->
-<img src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" width="40"/> <!-- OpenAI -->
-<img src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4" width="40"/> <!-- Google GenAI -->
-
-#### Utilities
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 | Category          | Library                                                            | Description               |
 | ----------------- | ------------------------------------------------------------------ | ------------------------- |
 | AI/ML             | torch, transformers, openai-clip, sentence-transformers, faiss-cpu | Core ML & embeddings      |
