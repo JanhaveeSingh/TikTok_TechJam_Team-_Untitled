@@ -1,0 +1,62 @@
+[
+    {
+        "from": "clip_model",
+        "shape": {
+            "x": 50,
+            "y": 100,
+            "width": 120,
+            "height": 60
+        },
+        "text": "a navigation bar",
+        "type": "ui_element",
+        "confidence": 0.2703889310359955
+    },
+    {
+        "from": "clip_model",
+        "shape": {
+            "x": 150,
+            "y": 180,
+            "width": 120,
+            "height": 60
+        },
+        "text": "a text field",
+        "type": "ui_element",
+        "confidence": 0.2665819525718689
+    },
+    {
+        "from": "clip_model",
+        "shape": {
+            "x": 250,
+            "y": 260,
+            "width": 120,
+            "height": 60
+        },
+        "text": "a search box",
+        "type": "ui_element",
+        "confidence": 0.26487496495246887
+    },
+    {
+        "from": "clip_model",
+        "shape": {
+            "x": 350,
+            "y": 340,
+            "width": 120,
+            "height": 60
+        },
+        "text": "a dropdown menu",
+        "type": "ui_element",
+        "confidence": 0.24949122965335846
+    },
+    {
+        "from": "clip_model",
+        "shape": {
+            "x": 450,
+            "y": 420,
+            "width": 120,
+            "height": 60
+        },
+        "text": "a tab",
+        "type": "ui_element",
+        "confidence": 0.2385060340166092
+    }
+]

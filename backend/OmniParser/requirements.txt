@@ -1,0 +1,21 @@
+torch
+torchvision
+easyocr
+supervision==0.18.0
+openai==1.3.5
+transformers==4.44.0
+ultralytics>=8.3.0
+azure-identity
+numpy<2
+opencv-python
+opencv-python-headless
+gradio
+dill
+accelerate
+timm
+einops==0.8.0
+paddlepaddle-gpu==2.5.2; sys_platform != "darwin"
+paddlepaddle==2.5.2; sys_platform == "darwin"
+paddleocr==2.7.3
+fastapi
+uvicorn

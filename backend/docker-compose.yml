@@ -1,0 +1,25 @@
+services:
+  image-embedding:
+    platform: linux/amd64
+    build:
+      context: ./ImageEmbedding
+      dockerfile: Dockerfile
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./ImageEmbedding:/app
+  # Removed GPU/NVIDIA requirements for Mac compatibility
+    restart: unless-stopped
+
+  omni-parser:
+    platform: linux/amd64
+    build:
+      context: ./OmniParser
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./OmniParser:/app
+      - ./OmniParser/weights:/app/weights
+  # Removed GPU/NVIDIA requirements for Mac compatibility
+    restart: unless-stopped
