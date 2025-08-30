@@ -91,24 +91,16 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 ### Libraries Used in the Project
 ---
 <p align="center">
-  <!-- AI/ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
-  <!-- NLP -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
-  <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/uvicorn.png" width="40"/>
-  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/75007559?s=200&v=4" width="40"/> <!-- Pinecone -->
-  <img src="https://avatars.githubusercontent.com/u/123345178?s=200&v=4" width="40"/> <!-- ChromaDB -->
-  <!-- Mobile Automation -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
-  <!-- Utilities -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
