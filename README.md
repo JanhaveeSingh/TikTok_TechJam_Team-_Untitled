@@ -143,7 +143,7 @@ class AdaptiveWait:
 #### Unified Parser System
 
 * **OmniParser (YOLO-based, high accuracy, slower)**
-* **CLIP Parser (fast, memory tradeoff)**
+* **CLIP Parser (fast, light)**
 * **Auto-switching**: Picks optimal parser based on context
 
 #### Multi-Modal Integration
@@ -157,9 +157,8 @@ class AdaptiveWait:
 ### Performance Optimization Techniques
 
 * **Dynamic State Monitoring** → replace fixed timers with real-time detection
-* **Parser Selection Strategy** → OmniParser (accuracy) vs CLIP (speed)
+* **Parser Selection Strategy** → OmniParser (heavy) vs CLIP (speed)
 * **Caching** → vector caching for repeated recognition
-* **Memory/Speed Tradeoff** → CLIP uses more memory but accelerates inference
 
 ---
 
@@ -235,7 +234,7 @@ The project leverages Neo4j for memory storage, allowing efficient retrieval of 
 
 #### 6. Set up the backend
 
-Refer to : [ReadME](backend/README.md)
+> Refer to : [ReadME](backend/README.md)
 
 
 #### 7. Launching the Demo
