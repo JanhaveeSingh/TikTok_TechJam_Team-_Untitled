@@ -249,13 +249,13 @@ Install ADB on your PC.
 * Navigate to Settings > Developer Options and turn on USB Debugging.
 * Connect your device to your computer using a USB cable.
 
-* Using an Emulator (Optional):
+Using an Emulator (Optional):
   
-** If a physical device is unavailable, you can use an Android emulator:
-** Install Android Studio.
-** Open Device Manager to create and launch an emulator.
-** Install apps by dragging APK files into the emulator window.
-** AppAgent works with the emulator just like a real device.
+* If a physical device is unavailable, you can use an Android emulator:
+* Install Android Studio.
+* Open Device Manager to create and launch an emulator.
+* Install apps by dragging APK files into the emulator window.
+* AppAgent works with the emulator just like a real device.
 
 
 #### 8. Run the Demo
