@@ -2,7 +2,7 @@
 
 ## 🤵‍♀️ Agent 007 : Enhanced GUI Automation System
 
-The full technical documentation for Agent 007 can be found [here](Technical Documentation\_ Agent 007.pdf).
+The full technical documentation for Agent 007 can be found [here](Technical Documentation_Agent 007.pdf).
 
 ### Table of Contents
 
