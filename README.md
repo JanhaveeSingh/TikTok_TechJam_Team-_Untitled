@@ -2,9 +2,7 @@
 
 ## 007 : Enhanced GUI Automation System
 
-![Inspiration](assets/inspiration.png)
-
-## Table of Contents
+### Table of Contents
 
 * [Project Overview](#project-overview)
 * [Key Innovation: Dynamic Completion Detection](#key-innovation-dynamic-completion-detection)
@@ -26,7 +24,7 @@
 
 ---
 
-## Problem Statement
+### Problem Statement
 
 With the explosive growth of mobile Internet and smart devices, GUIs are becoming increasingly complex and evolving rapidly. This drives the demand for high-quality application assurance. Manual testing is expensive, so automated GUI testing has become mainstream, especially for regression and compatibility testing.
 
@@ -34,7 +32,7 @@ However, most research in GUI automation with LLMs/MLLMs focuses only on **UI el
 
 ---
 
-## Project Overview
+### Project Overview
 
 **007** is an advanced GUI automation system that improves **inference efficiency** through:
 
@@ -43,9 +41,11 @@ However, most research in GUI automation with LLMs/MLLMs focuses only on **UI el
 
 Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX](https://github.com/Westlake-AGI-Lab/AppAgentX), the system replaces fixed hardcoded timing with **adaptive completion detection**, enabling faster and more reliable workflows.
 
+![Inspiration](assets/inspiration.png)
+
 ---
 
-## Key Innovation: Dynamic Completion Detection
+### Key Innovation: Dynamic Completion Detection
 
 * **Before**: Fixed timers per workflow step (inefficient, sometimes too early/late).
 * **Now**: Dynamic state change capture to detect when a step is truly complete.
@@ -53,7 +53,7 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 
 ---
 
-## Performance Improvement Results
+### Performance Improvement Results
 
 * **Workflow 1 (Google Maps: nearest coffee place)**
 
@@ -66,9 +66,9 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 
 ---
 
-## APIs Used in the Project
+### APIs Used in the Project
 
-### External APIs
+#### External APIs
 
 * OpenAI CLIP API – Visual understanding
 * Google Gemini API – LLM reasoning & decision making
@@ -76,7 +76,7 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 * Neo4j API – Knowledge graph storage
 * EasyOCR API – Text recognition
 
-### Internal Service APIs
+#### Internal Service APIs
 
 * OmniParser Service (Port 8000) – High-accuracy YOLO-based parser
 * CLIP Parser Service (Port 8002) – Fast UI detection
@@ -85,7 +85,7 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 
 ---
 
-## Libraries Used in the Project
+### Libraries Used in the Project
 
 | Category          | Library                                                            | Description               |
 | ----------------- | ------------------------------------------------------------------ | ------------------------- |
@@ -100,9 +100,9 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 
 ---
 
-## Technical Architecture
+### Technical Architecture
 
-### Dynamic Completion Detection System
+#### Dynamic Completion Detection System
 
 ```python
 class AdaptiveWait:
@@ -118,13 +118,13 @@ class AdaptiveWait:
         # Dynamic state monitoring instead of fixed timers
 ```
 
-### Unified Parser System
+#### Unified Parser System
 
 * **OmniParser (YOLO-based, high accuracy, slower)**
 * **CLIP Parser (fast, memory tradeoff)**
 * **Auto-switching**: Picks optimal parser based on context
 
-### Multi-Modal Integration
+#### Multi-Modal Integration
 
 * CLIP for visual understanding
 * AdaT classifier for completion detection
@@ -132,7 +132,7 @@ class AdaptiveWait:
 
 ---
 
-## Performance Optimization Techniques
+### Performance Optimization Techniques
 
 * **Dynamic State Monitoring** → replace fixed timers with real-time detection
 * **Parser Selection Strategy** → OmniParser (accuracy) vs CLIP (speed)
@@ -141,7 +141,7 @@ class AdaptiveWait:
 
 ---
 
-## Results and Impact
+### Results and Impact
 
 * **53.35% faster execution** on average
 * Eliminates timing-related failures
@@ -150,15 +150,15 @@ class AdaptiveWait:
 
 ---
 
-## Getting Started
+### Getting Started
 
-### 1. Clone the Repository
+#### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/JanhaveeSingh/TikTok_TechJam_Team-_Untitled.git
 ```
 
-### 2. Create a Virtual Environment
+#### 2. Create a Virtual Environment
 
 ```bash
 python3 -m venv venv
@@ -166,13 +166,13 @@ source venv/bin/activate   # On Linux / Mac
 venv\Scripts\activate      # On Windows
 ```
 
-### 3. Install Dependencies
+#### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the Demo
+#### 4. Run the Demo
 
 ```bash
 python demo.py
@@ -180,6 +180,6 @@ python demo.py
 
 ---
 
-## Contributors
+### Contributors
 
 * 
