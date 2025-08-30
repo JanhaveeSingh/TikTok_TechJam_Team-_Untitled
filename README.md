@@ -182,4 +182,8 @@ python demo.py
 
 ### Contributors
 
-* 
+* 👩‍💻 **Janhavee Singh** – [@JanhaveeSingh](https://github.com/JanhaveeSingh)
+* 👩‍💻 **Rishika Mehta** - [@Oganesson0221](https://github.com/Oganesson0221)
+* 👩‍💻 **Yi Hsuen Cheng** – [@yiihsuenn](https://github.com/yiihsuenn)
+* 👩‍💻 **Risha Sunil Shetty** – [@RISHASUN001](https://github.com/RISHASUN001)
+  
