@@ -1,6 +1,6 @@
 # TikTok_TechJam - Team Untitled
 
-## Agent 007 : Enhanced GUI Automation System
+## 🤵‍♀️ Agent 007 : Enhanced GUI Automation System
 
 ### Table of Contents
 
@@ -228,7 +228,7 @@ OMNI_URI=http://127.0.0.1:8000
 PINECONE_API_KEY=xxxx
 ```
 
-### 5. Database Deployment and Connection
+#### 5. Database Deployment and Connection
 
 The project leverages Neo4j for memory storage, allowing efficient retrieval of nodes via Cypher queries. Pinecone is used for vector storage. Ensure that all necessary API keys and configurations are correctly set in the [config.py](config.py). For more information, refer to the Neo4j documentation and Pinecone documentation.
 
@@ -238,11 +238,11 @@ The project leverages Neo4j for memory storage, allowing efficient retrieval of 
 Refer to : [ReadME](backend/README.md)
 
 
-### 7. Launching the Demo
+#### 7. Launching the Demo
 
 Before running the demo, you need to set up ADB (Android Debug Bridge) to connect your Android device to your computer.
 
-Setting Up ADB and Connecting Your Device
+> Setting Up ADB and Connecting Your Device
 
 
 Install ADB on your PC.
@@ -269,7 +269,6 @@ or
 ```bash
 gradio demo.py
 ```
-
 
 ---
 
