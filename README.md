@@ -1,6 +1,6 @@
 # TikTok_TechJam - Team Untitled
 
-## 007 : Enhanced GUI Automation System
+## Agent 007 : Enhanced GUI Automation System
 
 ### Table of Contents
 
@@ -228,16 +228,46 @@ OMNI_URI=http://127.0.0.1:8000
 PINECONE_API_KEY=xxxx
 ```
 
-#### 5. Set up the backend
+### 5. Database Deployment and Connection
+
+The project leverages Neo4j for memory storage, allowing efficient retrieval of nodes via Cypher queries. Pinecone is used for vector storage. Ensure that all necessary API keys and configurations are correctly set in the [config.py](config.py). For more information, refer to the Neo4j documentation and Pinecone documentation.
+
+
+#### 6. Set up the backend
 
 Refer to : [ReadME](backend/README.md)
 
 
-#### 4. Run the Demo
+### 7. Launching the Demo
+
+Before running the demo, you need to set up ADB (Android Debug Bridge) to connect your Android device to your computer.
+Setting Up ADB and Connecting Your Device
+Install ADB on your PC.
+
+
+* Enable USB Debugging on your Android device:
+* Navigate to Settings > Developer Options and turn on USB Debugging.
+* Connect your device to your computer using a USB cable.
+
+* Using an Emulator (Optional):
+  
+** If a physical device is unavailable, you can use an Android emulator:
+** Install Android Studio.
+** Open Device Manager to create and launch an emulator.
+** Install apps by dragging APK files into the emulator window.
+** AppAgent works with the emulator just like a real device.
+
+
+#### 8. Run the Demo
 
 ```bash
 python demo.py
 ```
+or
+```bash
+gradio demo.py
+```
+
 
 ---
 
