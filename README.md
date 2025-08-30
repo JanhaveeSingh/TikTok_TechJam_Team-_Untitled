@@ -41,7 +41,7 @@ However, most research in GUI automation with LLMs/MLLMs focuses only on **UI el
 
 Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX](https://github.com/Westlake-AGI-Lab/AppAgentX), the system replaces fixed hardcoded timing with **adaptive completion detection**, enabling faster and more reliable workflows.
 
-![Inspiration](assets/inspiration.png)
+![inspiration](assets/inspiration.png)
 
 ---
 
