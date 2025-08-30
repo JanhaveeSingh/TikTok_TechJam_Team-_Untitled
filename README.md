@@ -193,6 +193,10 @@ venv\Scripts\activate      # On Windows
 ```bash
 pip install -r requirements.txt
 ```
+#### 4. Set up the backend
+
+Refer to : [ReadME](backend/README.md)
+
 
 #### 4. Run the Demo
 
