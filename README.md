@@ -87,7 +87,7 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 
 ### Libraries Used in the Project
 ---
-<p align="left">
+<p align="center">
   <!-- AI/ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="25"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="25"/>
@@ -103,7 +103,9 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="25"/>
   <img src="https://avatars.githubusercontent.com/u/73998423?s=200&v=4" width="25"/> <!-- Gradio -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uvicorn/uvicorn-original.svg" width="25"/>
-  
+</p>
+
+<p align="center">
   <!-- DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="25"/>
   <img src="https://avatars.githubusercontent.com/u/75007559?s=200&v=4" width="25"/> <!-- Pinecone -->
@@ -123,8 +125,6 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
 </p>
-
-
 | Category          | Library                                                            | Description               |
 | ----------------- | ------------------------------------------------------------------ | ------------------------- |
 | AI/ML             | torch, transformers, openai-clip, sentence-transformers, faiss-cpu | Core ML & embeddings      |
