@@ -241,9 +241,11 @@ Refer to : [ReadME](backend/README.md)
 ### 7. Launching the Demo
 
 Before running the demo, you need to set up ADB (Android Debug Bridge) to connect your Android device to your computer.
-Setting Up ADB and Connecting Your Device
-Install ADB on your PC.
 
+Setting Up ADB and Connecting Your Device
+
+
+Install ADB on your PC.
 
 * Enable USB Debugging on your Android device:
 * Navigate to Settings > Developer Options and turn on USB Debugging.
