@@ -96,7 +96,6 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
   <!-- NLP -->
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <!-- Web -->
