@@ -155,8 +155,7 @@ class AdaptiveWait:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/007-GUI-Automation.git
-cd 007-GUI-Automation
+git clone https://github.com/JanhaveeSingh/TikTok_TechJam_Team-_Untitled.git
 ```
 
 ### 2. Create a Virtual Environment
