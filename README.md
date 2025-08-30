@@ -92,35 +92,29 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 ---
 <p align="center">
   <!-- AI/ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="25"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="25"/>
-  <img src="https://avatars.githubusercontent.com/u/47238792?s=200&v=4" width="25"/>
-  <img src="https://avatars.githubusercontent.com/u/72576348?s=200&v=4" width="25"/>
-  <img src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" width="25"/> <!-- Faiss -->
-  <!-- CV -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="25"/>
-  <img src="https://avatars.githubusercontent.com/u/73998423?s=200&v=4" width="25"/> <!-- Gradio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uvicorn/uvicorn-original.svg" width="25"/>
-</p>
-<p align="center">
-  <!-- DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="25"/>
-  <img src="https://avatars.githubusercontent.com/u/75007559?s=200&v=4" width="25"/> <!-- Pinecone -->
-  <img src="https://avatars.githubusercontent.com/u/123345178?s=200&v=4" width="25"/> <!-- ChromaDB -->
-  <!-- Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
   <!-- NLP -->
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="25"/> <!-- LangChain -->
-  <img src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" width="25"/> <!-- OpenAI -->
-  <img src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4" width="25"/> <!-- Google GenAI -->
-  <!-- Utils -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> 
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uvicorn/uvicorn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradio/gradio-original.svg" width="40"/>
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinecone/pinecone-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chromadb/chromadb-original.svg" width="40"/>
+  <!-- Mobile Automation -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
+  <!-- Utilities -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
 
