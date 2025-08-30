@@ -193,7 +193,42 @@ venv\Scripts\activate      # On Windows
 ```bash
 pip install -r requirements.txt
 ```
-#### 4. Set up the backend
+
+#### 4. Set up your .env file
+
+```bash
+# LLM Configuration for Gemini 2.5
+LLM_PROVIDER=gemini
+LLM_API_KEY=xxxxx
+LLM_MODEL=gemini-1.5-flash
+LLM_MAX_TOKEN=1500
+LLM_REQUEST_TIMEOUT=500
+LLM_MAX_RETRIES=3
+
+# Gemini-specific (optional, usually same as LLM_API_KEY)
+GEMINI_API_KEY=xxxx
+
+# LangChain Configuration
+LANGCHAIN_TRACING_V2=false
+LANGCHAIN_ENDPOINT=https://api.smith.langchain.com
+LANGCHAIN_API_KEY=xxxx
+
+# Neo4j Configuration
+NEO4J_URI=xxxx
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=xxxx
+
+# Feature Extractor Configuration
+FEATURE_URI=http://127.0.0.1:8001
+
+# Screen Parser Configuration
+OMNI_URI=http://127.0.0.1:8000
+
+# Vector Storage Configuration
+PINECONE_API_KEY=xxxx
+```
+
+#### 5. Set up the backend
 
 Refer to : [ReadME](backend/README.md)
 
