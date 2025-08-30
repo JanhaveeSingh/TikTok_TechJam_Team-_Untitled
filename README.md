@@ -55,13 +55,16 @@ Inspired by [AdaT](https://github.com/sidongfeng/AdaT/tree/main) and [AppAgentX]
 
 ### Performance Improvement Results
 
-* **Workflow 1 (Google Maps: nearest coffee place)**
+* **Workflow 1 (Google Maps: Nearest coffee place)**
 
   * Before: 20.7s → After: 10.47s (**49.4% faster**)
 
-* **Workflow 2 (Google Maps: nearest restaurants)**
+![Demo 1](assets/demo1.gif)
 
-  * Before: 21.2s → After: 9.06s (**57.3% faster**)
+
+* **Workflow 2 (TikTok Scrolling & Liking)**
+
+  * Before: 27.2s → After: 22.99s (**15.5% faster**)
 
 
 ---
